@@ -1,0 +1,46 @@
+# Einstein's Delivery
+
+Einstein's Delivery é um jogo de plataforma 2D em pixel art onde você controla Albert Einstein como um ciclista de aplicativo. O grande diferencial é que, neste universo, a velocidade da luz é muito baixa. Ao acelerar, você experimenta em tempo real os efeitos da Relatividade Restrita – dilatação do tempo e efeito Doppler. O objetivo é entregar os pedidos dentro do prazo… mas cuidado: quanto mais rápido você pedala, mais estranho o mundo fica!
+
+---
+
+## Características principais
+
+- Mecânica central – Acelere para cumprir os prazos, mas enfrente as consequências relativísticas.
+- Controle de velocidade – Velocímetro que mostra a fração de `c` (velocidade da luz).
+- Efeitos relativísticos:
+  - Efeito Doppler – gradiente violeta à frente, vermelho atrás. Velocidades extremas levam ao infravermelho/ultravioleta.
+  - Paradoxo das entregas – se você for rápido demais, o tempo do cliente passa mais rápido e a comida esfria (gorjeta reduzida).
+- HUD relativística – relógios comparativos (tempo do ciclista vs. tempo do mundo), régua espacial e velocímetro circular.
+
+---
+
+## Controles
+
+| Tecla           | Ação                          |
+|-----------------|-------------------------------|
+| ⬆️ Seta para cima  | Pular (sobre poças)          |
+| ⬇️ Seta para baixo | Abaixar (para galhos)        |
+| ➡️ Seta para direita | Acelerar (aproxima de `c`) |
+| ⬅️ Seta para esquerda | Desacelerar / frear        |
+
+> ⚠️ Se você tentar atingir 100% da velocidade da luz, GAME OVER.
+
+---
+
+## Como executar o jogo
+
+O jogo é fornecido em um arquivo `.zip`. Siga os passos abaixo para rodá-lo sem necessidade de instalação:
+
+1. Extraia todo o conteúdo do `.zip`  
+   Clique com o botão direito no arquivo `.zip` e escolha “Extrair aqui” (Windows).
+
+2. Acesse a pasta extraída
+   Você verá um arquivo `Einstein's Delivery v.01`
+
+3. Execute o jogo
+   Dê duplo clique no arquivo `Einstein's Delivery v.01`. 
+
+4. Pronto! O jogo carregará imediatamente. 
+
+> Importante: não mova nem renomeie os arquivos individualmente. Mantenha toda a estrutura de pastas do `.zip` para que o jogo funcione corretamente.
