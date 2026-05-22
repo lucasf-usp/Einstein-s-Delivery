@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shd_doppler",
+  "name":"shd_doppler",
+  "parent":{
+    "name":".Sla",
+    "path":"folders/.Sla.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

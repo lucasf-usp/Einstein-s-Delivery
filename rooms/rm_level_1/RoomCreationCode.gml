@@ -1,0 +1,1 @@
+global.deadline_minutos = 8.5; // change this per room
